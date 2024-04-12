@@ -1,1 +1,1 @@
-# recipe_site
+# recipe-site
