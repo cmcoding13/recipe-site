@@ -1,0 +1,15 @@
+.heading h1{
+   text-align: center;
+   
+}
+
+.recipe-list{
+    border: 4px dotted;
+    display: flex;
+}
+
+.list-item{
+    flex: 1;
+}
+
+
